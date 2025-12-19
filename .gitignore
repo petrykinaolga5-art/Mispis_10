@@ -1,2 +1,6 @@
 .idea/
 out/
+*.class
+MainTest.java
+run.sh
+ИНСТРУКЦИЯ_ЗАПУСК.md
